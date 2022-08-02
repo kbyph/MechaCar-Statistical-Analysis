@@ -11,7 +11,6 @@
   - RStudio
   - R
 - Tools
-  - tidyverse
   - dplyr
   - ggplot2
 - Data Source

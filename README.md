@@ -77,3 +77,4 @@ In comparison to MechaCar's competitors, metrics that could be measured that wou
   - ANOVA tests to determine the means of each variable, and multiple linear regression summaries to compare between each competitor in the market.
 - What data is needed to run the statistical test?
   - A sample size of around 50 cars for each competitor, including the same variables and data values as above. 
+  
